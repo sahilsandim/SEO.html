@@ -1,0 +1,2 @@
+Meta tag is used in HTML to ranked our website on chrome,bing,firefox browsers by proper giving keywords in meta tag.
+-It also contains tags which improves searching function of the browsers. 
